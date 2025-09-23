@@ -1,0 +1,2 @@
+#!/bin/bash
+case "$(stat -c %U hello)" in guillaume chown vincent hello;; esac
