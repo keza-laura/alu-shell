@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# Script that displays a list of running processes with bash in them.
+# script that displays all running processes for all users
 
-ps -auxf | grep bash
+ps -auxf
